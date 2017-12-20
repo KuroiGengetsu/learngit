@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// swap two numbers
 int main()
 {
 	int a, b;
