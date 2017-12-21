@@ -3,9 +3,9 @@
 // swap two numbers
 int main()
 {
-	int a, b;
-	scanf("%d%d", &a, &b);
-	printf("%d %d", b, a);
-	return 0;
+    int a, b;
+    scanf("%d%d", &a, &b);
+    printf("%d %d", b, a);
+    return 0;
 }
 
